@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vintage/static/css/main.4c484852.css",
-    "main.js": "/vintage/static/js/main.44de185a.js",
-    "static/media/flower.png": "/vintage/static/media/flower.167f450fe1cb64b4daa4.png",
-    "static/media/bg-pattern-check.jpg": "/vintage/static/media/bg-pattern-check.c32a1d8ebbe04336c32f.jpg",
-    "static/media/icon-phone.png": "/vintage/static/media/icon-phone.be5f5d2313e27b0d2244.png",
-    "static/media/5.png": "/vintage/static/media/5.bd046a12d1d8eab52dc4.png",
-    "static/media/menu.png": "/vintage/static/media/menu.22143229b96d9c216032.png",
-    "index.html": "/vintage/index.html",
-    "main.4c484852.css.map": "/vintage/static/css/main.4c484852.css.map",
-    "main.44de185a.js.map": "/vintage/static/js/main.44de185a.js.map"
+    "main.css": "/static/css/main.dc2c0c7e.css",
+    "main.js": "/static/js/main.18a768cb.js",
+    "static/media/flower.png": "/static/media/flower.167f450fe1cb64b4daa4.png",
+    "static/media/bg-pattern-check.jpg": "/static/media/bg-pattern-check.c32a1d8ebbe04336c32f.jpg",
+    "static/media/icon-phone.png": "/static/media/icon-phone.be5f5d2313e27b0d2244.png",
+    "static/media/5.png": "/static/media/5.bd046a12d1d8eab52dc4.png",
+    "static/media/menu.png": "/static/media/menu.22143229b96d9c216032.png",
+    "index.html": "/index.html",
+    "main.dc2c0c7e.css.map": "/static/css/main.dc2c0c7e.css.map",
+    "main.18a768cb.js.map": "/static/js/main.18a768cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c484852.css",
-    "static/js/main.44de185a.js"
+    "static/css/main.dc2c0c7e.css",
+    "static/js/main.18a768cb.js"
   ]
 }
